@@ -136,10 +136,5 @@ Sterivex filter 0.22 &micro;m | consumable | 50 | £245 | Millipore | SVGP01050
 Whirl-Pak sample bag (75 x 125 mm) | consumable | 500 | £50.19 | SLS| BAG2504
 50 mL luer-lock syringe | consumable | 25 | £16.90 | SLS | BS-50L
 1 mL luer-slip syringe | consumable | 100 | £6.20  | Appleton Woods | BD572
-DNeasy Blood & Tissue kit | consumable | 250 | £489.77 | Qiagen | 69506
-RNase A | consumable | 2 x 0.5 mL | £47.60 | New England Biolabs | T3018L
 Buffer ATL | consumable | 4 x 50 mL | £55.40 | Qiagen | 939016
 Combistopper | consumable | 100 | £11.67 | B Braun | 4495152
-50 mL Centrifuge Tube | consumable | 500 | £48.48 | Starlab UK | E1450-0200
-1.5 mL microcentrifuge tube | consumable | 500 | £14.28 | Starlab UK | S1615-5510
-1.5 mL microcentrifuge tube (LoBind) | consumable | 250 | £6.14 | Starlab UK| E1415-2600
